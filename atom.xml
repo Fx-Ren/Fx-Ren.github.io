@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>霄</title>
+  
+  <subtitle>~霄霄~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://Fx-Ren.github.io/"/>
+  <updated>2019-11-11T14:57:40.175Z</updated>
+  <id>https://Fx-Ren.github.io/</id>
+  
+  <author>
+    <name>霄</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[数学]LeetCode-31.下一个排列</title>
+    <link href="https://Fx-Ren.github.io/2019/11/08/shu-xue-leetcode-31-xia-yi-ge-pai-lie/"/>
+    <id>https://Fx-Ren.github.io/2019/11/08/shu-xue-leetcode-31-xia-yi-ge-pai-lie/</id>
+    <published>2019-11-08T00:42:17.000Z</published>
+    <updated>2019-11-11T14:57:40.175Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="题解" scheme="https://Fx-Ren.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="数学" scheme="https://Fx-Ren.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[单调栈]LeetCode-739.每日温度</title>
+    <link href="https://Fx-Ren.github.io/2019/11/07/dan-diao-zhan-leetcode-739-mei-ri-wen-du/"/>
+    <id>https://Fx-Ren.github.io/2019/11/07/dan-diao-zhan-leetcode-739-mei-ri-wen-du/</id>
+    <published>2019-11-07T01:55:11.000Z</published>
+    <updated>2019-11-11T14:57:40.175Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;Given a list of daily temperatures T, return a list such that, for
+        
+      
+    
+    </summary>
+    
+      <category term="题解" scheme="https://Fx-Ren.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+      <category term="单调栈" scheme="https://Fx-Ren.github.io/tags/%E5%8D%95%E8%B0%83%E6%A0%88/"/>
+    
+  </entry>
+  
+</feed>
